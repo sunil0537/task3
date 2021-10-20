@@ -1,0 +1,2 @@
+[web]
+172-32-25-109 ansible_user=ec2-user
